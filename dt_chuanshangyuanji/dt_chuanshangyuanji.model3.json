@@ -1,0 +1,219 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "dt_chuanshangyuanji.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_00_n.png",
+      "textures/texture_01.png",
+      "textures/texture_01_n.png",
+      "textures/texture_02.png",
+      "textures/texture_02_n.png",
+      "textures/texture_03.png",
+      "textures/texture_03_n.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/a001.motion3.json"
+        },
+        {
+          "File": "motions/a001_loop.motion3.json"
+        },
+        {
+          "File": "motions/a002.motion3.json"
+        },
+        {
+          "File": "motions/a002_loop.motion3.json"
+        },
+        {
+          "File": "motions/a003_a_1.motion3.json"
+        },
+        {
+          "File": "motions/a003_a_1_loop.motion3.json"
+        },
+        {
+          "File": "motions/a003_a_2.motion3.json"
+        },
+        {
+          "File": "motions/a003_a_2_loop.motion3.json"
+        },
+        {
+          "File": "motions/a003_b_1.motion3.json"
+        },
+        {
+          "File": "motions/a003_b_1_loop.motion3.json"
+        },
+        {
+          "File": "motions/a003_b_2.motion3.json"
+        },
+        {
+          "File": "motions/a003_b_2_loop.motion3.json"
+        },
+        {
+          "File": "motions/a004.motion3.json"
+        },
+        {
+          "File": "motions/a004_loop.motion3.json"
+        },
+        {
+          "File": "motions/a005_a_1.motion3.json"
+        },
+        {
+          "File": "motions/a005_a_1_loop.motion3.json"
+        },
+        {
+          "File": "motions/a005_a_2.motion3.json"
+        },
+        {
+          "File": "motions/a005_a_2_loop.motion3.json"
+        },
+        {
+          "File": "motions/a005_b_1.motion3.json"
+        },
+        {
+          "File": "motions/a005_b_1_loop.motion3.json"
+        },
+        {
+          "File": "motions/a005_c.motion3.json"
+        },
+        {
+          "File": "motions/a005_c_loop.motion3.json"
+        },
+        {
+          "File": "motions/a006.motion3.json"
+        },
+        {
+          "File": "motions/a006_loop.motion3.json"
+        },
+        {
+          "File": "motions/a007.motion3.json"
+        },
+        {
+          "File": "motions/a007_loop.motion3.json"
+        },
+        {
+          "File": "motions/a008.motion3.json"
+        },
+        {
+          "File": "motions/a008_loop.motion3.json"
+        },
+        {
+          "File": "motions/a009.motion3.json"
+        },
+        {
+          "File": "motions/a009_loop.motion3.json"
+        },
+        {
+          "File": "motions/a010_a_1.motion3.json"
+        },
+        {
+          "File": "motions/a010_a_1_loop.motion3.json"
+        },
+        {
+          "File": "motions/a010_a_2.motion3.json"
+        },
+        {
+          "File": "motions/a010_a_2_loop.motion3.json"
+        },
+        {
+          "File": "motions/a010_a_a.motion3.json"
+        },
+        {
+          "File": "motions/a010_a_a_loop.motion3.json"
+        },
+        {
+          "File": "motions/a010_a_b.motion3.json"
+        },
+        {
+          "File": "motions/a010_a_b_loop.motion3.json"
+        },
+        {
+          "File": "motions/a010_b_1.motion3.json"
+        },
+        {
+          "File": "motions/a010_b_1_loop.motion3.json"
+        },
+        {
+          "File": "motions/a010_b_2.motion3.json"
+        },
+        {
+          "File": "motions/a010_b_2_loop.motion3.json"
+        },
+        {
+          "File": "motions/a010_b_a.motion3.json"
+        },
+        {
+          "File": "motions/a010_b_a_loop.motion3.json"
+        },
+        {
+          "File": "motions/a010_b_b.motion3.json"
+        },
+        {
+          "File": "motions/a010_b_b_loop.motion3.json"
+        },
+        {
+          "File": "motions/a011_1.motion3.json"
+        },
+        {
+          "File": "motions/a011_2.motion3.json"
+        },
+        {
+          "File": "motions/a011_3.motion3.json"
+        },
+        {
+          "File": "motions/a011_4.motion3.json"
+        },
+        {
+          "File": "motions/a011_loop.motion3.json"
+        },
+        {
+          "File": "motions/a012.motion3.json"
+        },
+        {
+          "File": "motions/a012_loop.motion3.json"
+        },
+        {
+          "File": "motions/a013.motion3.json"
+        },
+        {
+          "File": "motions/a013_loop.motion3.json"
+        },
+        {
+          "File": "motions/a014.motion3.json"
+        },
+        {
+          "File": "motions/a014_loop.motion3.json"
+        },
+        {
+          "File": "motions/boat.motion3.json"
+        },
+        {
+          "File": "motions/loading.motion3.json"
+        },
+        {
+          "File": "motions/pose_float_loop.motion3.json"
+        },
+        {
+          "File": "motions/scene.motion3.json"
+        },
+        {
+          "File": "motions/scene_loop.motion3.json"
+        },
+        {
+          "File": "motions/test.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "Param99"
+      ]
+    }
+  ]
+}
