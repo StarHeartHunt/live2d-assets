@@ -1,0 +1,173 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 1.5,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 8,
+    "TotalSegmentCount": 21,
+    "TotalPointCount": 37,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRY",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.1,
+        0,
+        0.2,
+        0.619,
+        0.3,
+        0.724,
+        1,
+        0.533,
+        0.97,
+        0.767,
+        1,
+        1,
+        1,
+        0,
+        1.5,
+        0.872
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRAngle",
+      "Segments": [
+        0,
+        -0.4,
+        0,
+        0.3,
+        -0.806,
+        2,
+        1,
+        -0.806,
+        0,
+        1.5,
+        -0.704
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRForm",
+      "Segments": [
+        0,
+        -1.1,
+        1,
+        0.1,
+        -1.1,
+        0.2,
+        -0.209,
+        0.3,
+        -0.128,
+        1,
+        0.533,
+        0.061,
+        0.767,
+        0.078,
+        1,
+        0.078,
+        0,
+        1.5,
+        -0.488
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLY",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.1,
+        0,
+        0.2,
+        0.736,
+        0.3,
+        0.81,
+        1,
+        0.533,
+        0.983,
+        0.767,
+        1,
+        1,
+        1,
+        0,
+        1.5,
+        0.672
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLAngle",
+      "Segments": [
+        0,
+        1,
+        0,
+        0.3,
+        0.998,
+        2,
+        1,
+        0.998,
+        0,
+        1.5,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLForm",
+      "Segments": [
+        0,
+        0.4,
+        0,
+        0.3,
+        -0.102,
+        1,
+        0.533,
+        -0.102,
+        0.767,
+        -0.088,
+        1,
+        0.063,
+        1,
+        1.167,
+        0.171,
+        1.333,
+        0.4,
+        1.5,
+        0.4
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRX",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLX",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}

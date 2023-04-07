@@ -1,0 +1,186 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 2.0,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 8,
+    "TotalSegmentCount": 29,
+    "TotalPointCount": 37,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "Param16",
+      "Segments": [
+        0,
+        0,
+        0,
+        1,
+        -0.178,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamEyeRSmile",
+      "Segments": [
+        0,
+        1,
+        0,
+        0.5,
+        0.933,
+        0,
+        1,
+        1,
+        0,
+        1.5,
+        0.933,
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamEyeROpen",
+      "Segments": [
+        0,
+        0.9,
+        0,
+        1,
+        0.908,
+        0,
+        2,
+        0.9
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamEyeLSmile",
+      "Segments": [
+        0,
+        0,
+        0,
+        1,
+        -0.24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param18",
+      "Segments": [
+        0,
+        0.73,
+        0,
+        0.5,
+        0.677,
+        0,
+        1,
+        0.73,
+        0,
+        1.5,
+        0.677,
+        0,
+        2,
+        0.73
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamEyeLOpen",
+      "Segments": [
+        0,
+        0.9,
+        0,
+        1,
+        0.909,
+        0,
+        2,
+        0.9
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param17",
+      "Segments": [
+        0,
+        0.4,
+        2,
+        0.233,
+        0.4,
+        0,
+        0.5,
+        0.347,
+        0,
+        0.833,
+        0.4,
+        0,
+        1.167,
+        0.2,
+        1,
+        1.334,
+        0.2,
+        1.5,
+        0.202,
+        1.667,
+        0.253,
+        1,
+        1.778,
+        0.286,
+        1.889,
+        0.4,
+        2,
+        0.4
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param19",
+      "Segments": [
+        0,
+        0.5,
+        2,
+        0.233,
+        0.5,
+        0,
+        0.5,
+        0.421,
+        0,
+        0.833,
+        0.5,
+        0,
+        1.167,
+        0.2,
+        1,
+        1.334,
+        0.2,
+        1.5,
+        0.203,
+        1.667,
+        0.279,
+        1,
+        1.778,
+        0.329,
+        1.889,
+        0.5,
+        2,
+        0.5
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}
