@@ -4,13 +4,9 @@
     "Moc": "dt_chuanshangyuanji.moc3",
     "Textures": [
       "textures/texture_00.png",
-      "textures/texture_00_n.png",
       "textures/texture_01.png",
-      "textures/texture_01_n.png",
       "textures/texture_02.png",
-      "textures/texture_02_n.png",
-      "textures/texture_03.png",
-      "textures/texture_03_n.png"
+      "textures/texture_03.png"
     ],
     "Physics": null,
     "Motions": {
